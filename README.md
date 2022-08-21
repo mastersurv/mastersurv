@@ -24,3 +24,5 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+---
+### :man_technologist: About Me :
