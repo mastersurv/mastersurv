@@ -25,4 +25,9 @@ Here are some ideas to get you started:
 </div>
 
 ---
+
 ### :man_technologist: About Me :
+I'm a Python Developer from Russia
+- 🎓I work as a teacher at <a href="https://rebotica.ru/" target="_blank">Rebotica</a>
+- ⚡ Student of <a href="https://en.wikipedia.org/wiki/Kazan_State_Power_Engineering_University" target="_blank">KSPEU</a>
+- ⏰ Im my free time I watch videos about Python and programming on YouTube channels <br>(<a href="https://www.youtube.com/c/PythonHubStudio" target="_blank">Python Hub Studio</a> and <a href="https://www.youtube.com/c/%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B9%D0%A5%D0%B8%D1%80%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2" target="_blank">Timofey Hiryanov</a> - is a teacher from MIPT) and sometimes I take courses on <a href="https://stepik.org/" target="_blank">Stepic</a>
