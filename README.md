@@ -43,6 +43,5 @@ I'm a Python Developer from Russia
   <img src="https://github.com/mastersurv/mastersurv/blob/1d46298a231a5e805b855bd9220535f8c33b58d1/bagdes/aiogram.png" width="50" height="50" style="max-width: 100%;">&nbsp; &nbsp;
   <img src="https://github.com/mastersurv/mastersurv/blob/1d46298a231a5e805b855bd9220535f8c33b58d1/bagdes/cpp.png" width="50" height="55" style="max-width: 100%;">
   &nbsp; &nbsp;
-
 </p>
 
