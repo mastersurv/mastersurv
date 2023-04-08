@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-I'm a Python Developer from Russia
+I'm a Python Developer
 - 🚩 I lead group classes on creating telegram bots on Python together with <a href="https://innopolis.university/" target="_blank">Innopolis University</a> and <a href="https://maxima.life/" target="_blank">Maxima</a> IT company
 - 🎓 Also I work as a technical support for Python issues at <a href="https://rebotica.ru/" target="_blank">Rebotica</a>
 - ⚡ Student of <a href="https://en.wikipedia.org/wiki/Kazan_State_Power_Engineering_University" target="_blank">KSPEU</a>
