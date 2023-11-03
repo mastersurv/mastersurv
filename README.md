@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 I'm a Python Developer
-- 🚩 I lead group classes on creating telegram bots on Python together with <a href="https://innopolis.university/" target="_blank">Innopolis University</a> and <a href="https://maxima.life/" target="_blank">Maxima</a> IT company
+- 🚩 I conducted group classes on creating Telegram bots and desktop applications in Python together with <a href="https://innopolis.university/" target="_blank">Innopolis University</a> and <a href="https://maxima.life/" target="_blank">Maxima</a> IT company
 - 🎓 Also I work as a technical support for Python issues at <a href="https://rebotica.ru/" target="_blank">Rebotica</a>
 - ⚡ Student of <a href="https://en.wikipedia.org/wiki/Kazan_State_Power_Engineering_University" target="_blank">KSPEU</a>
-- ⏰ In my free time I watch videos about Python and programming on YouTube channels <br>(<a href="https://www.youtube.com/c/PythonHubStudio" target="_blank">Python Hub Studio</a> and <a href="https://www.youtube.com/c/%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B9%D0%A5%D0%B8%D1%80%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2" target="_blank">Timofey Hiryanov</a> - is a teacher from MIPT) and sometimes I take courses on <a href="https://stepik.org/" target="_blank">Stepic</a>
+- ⏰ In my free time I watch videos about Python and programming on YouTube channels <br>(<a href="https://www.youtube.com/c/PythonHubStudio" target="_blank">Python Hub Studio</a> and <a href="https://www.youtube.com/c/%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B9%D0%A5%D0%B8%D1%80%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2" target="_blank">Timofey Hiryanov</a> - is a teacher from MIPT) and sometimes I take courses on <a href="https://stepik.org/" target="_blank">Stepik</a>
 <div align="center">
   <img src="https://media.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif" width="150"/>
 </div>
