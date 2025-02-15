@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="badges">
+<!-- <div id="badges">
   <a href="https://vk.com/maastersurv">
     <img src="https://img.shields.io/badge/vkontakte-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
@@ -35,6 +35,7 @@ I'm a Python Developer
 <div align="center">
   <img src="https://media.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif" width="150"/>
 </div>
+-->
 
 ---
 
