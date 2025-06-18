@@ -43,7 +43,8 @@ I'm a Python Developer
 <p dir="auto">
   <img src="https://github.com/mastersurv/mastersurv/blob/1d46298a231a5e805b855bd9220535f8c33b58d1/bagdes/Python.png" idth="50" height="50" style="max-width: 00%;">&nbsp; &nbsp;
   <img src="https://github.com/mastersurv/mastersurv/blob/1d46298a231a5e805b855bd9220535f8c33b58d1/bagdes/aiogram.png" width="50" height="50" style="max-width: 100%;">&nbsp; &nbsp;
-  <img src="[https://github.com/mastersurv/mastersurv/blob/1d46298a231a5e805b855bd9220535f8c33b58d1/bagdes/dj.png]" width="50" height="50" style="max-width: 100%;">&nbsp; &nbsp;
+  <img src="![dj](https://github.com/user-attachments/assets/2b6979b9-506b-4dea-9526-59f8598a6955)
+" width="50" height="50" style="max-width: 100%;">&nbsp; &nbsp;
   <img src="https://github.com/mastersurv/mastersurv/blob/1d46298a231a5e805b855bd9220535f8c33b58d1/bagdes/fastapi.png" width="50" height="50" style="max-width: 100%;">&nbsp; &nbsp;
   &nbsp; &nbsp;
 </p>
